@@ -2,7 +2,7 @@
 
 Un outil léger et portable pour renommer automatiquement vos fichiers musicaux au format standardisé : `ARTISTE - TITRE.ext` (en majuscules).
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - **Nettoyage automatique** des noms de fichiers :
   - Supprime les tags comme `#FREE DL#`, `[Official]`, `(Free Download)`, etc.
